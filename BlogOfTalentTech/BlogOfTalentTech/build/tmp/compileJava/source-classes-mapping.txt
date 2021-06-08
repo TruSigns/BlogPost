@@ -1,0 +1,8 @@
+com/TechTalent/BlogOfTalentTech/controller/BlogPostController.java
+ com.TechTalent.BlogOfTalentTech.controller.BlogPostController
+com/TechTalent/BlogOfTalentTech/BlogOfTalentTechApplication.java
+ com.TechTalent.BlogOfTalentTech.BlogOfTalentTechApplication
+com/TechTalent/BlogOfTalentTech/repository/BlogPostRepository.java
+ com.TechTalent.BlogOfTalentTech.repository.BlogPostRepository
+com/TechTalent/BlogOfTalentTech/model/BlogPost.java
+ com.TechTalent.BlogOfTalentTech.model.BlogPost

@@ -1,0 +1,2 @@
+com/TechTalent/BlogOfTalentTech/BlogOfTalentTechApplicationTests.java
+ com.TechTalent.BlogOfTalentTech.BlogOfTalentTechApplicationTests
